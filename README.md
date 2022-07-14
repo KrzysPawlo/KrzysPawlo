@@ -7,7 +7,7 @@ I am a second-year student at the Polish-Japanese Academy of Computer Technology
 
 
 ## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/krzysztof-pawłowski-5455b61ab)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krzysztof-pawłowski-5455b61ab)
 
 
 ## Other Common Github Profile Sections
