@@ -3,7 +3,7 @@
 
 
 ## 👨‍🎓 About Me
-I am a second-year student at the Polish-Japanese Academy of Computer Technology. At the moment I am programming in Java but I desire to expand my skills through University and work
+I am a second-year student at the Polish-Japanese Academy of Computer Technology. At the moment I program in Java but I desire to expand my skills through University and work
 
 
 ## 🔗 Links
